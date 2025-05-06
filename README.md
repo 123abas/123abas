@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFtamxsbHM2Y3hmZXp3NXYzOTNveGVvejNzMWpjbXFmaWtyMWgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif"  />
+<img align="right" height="150" src="https://www.shutterstock.com/image-photo/hand-holding-human-brain-futuristic-260nw-2481678871.jpg"  />
 
 ###
 
