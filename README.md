@@ -46,7 +46,7 @@
  
   <a href="https://www.linkedin.com/in/mohamed-abas-761a36251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAYo%2FqDrvQy2PjiX%2Fcgakxw%3D%3D" target="_blank">
 
-</a>src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="51" height="25" alt="gitlab logo"  />
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="25" alt="whatsapp logo"  />
 </div>
 
