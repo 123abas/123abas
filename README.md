@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm a passionate Flutter Developer with deep experience in:<br><br>🔁 State Management (Cubit/BLoC) for structured, scalable Flutter apps<br>🧱 OOP & SOLID Principles for clean, maintainable code<br>🎯 Creating fully Responsive UIs for all screen sizes<br>🔥 Integrating Firebase services (Authentication, Firestore, etc.)<br>🌐 Consuming RESTful APIs and handling real-time data efficiently<br>🛠️ Expert in Git & GitHub for version control and collaborative development.<br> Contact me at:mb580900@gmail.com.<br><br>Always striving to build high-performance, user-friendly mobile apps using clean architecture.</h5>
+<p align="left">I'm a passionate Flutter Developer with deep experience in:<br><br>🔁 State Management (Cubit/BLoC) for structured, scalable Flutter apps<br>🧱 OOP & SOLID Principles for clean, maintainable code<br>🎯 Creating fully Responsive UIs for all screen sizes<br>🔥 Integrating Firebase services (Authentication, Firestore, etc.)<br>🌐 Consuming RESTful APIs and handling real-time data efficiently<br>🛠️ Expert in Git & GitHub for version control and collaborative development.<br> Contact me at:mb580900@gmail.com.<br><br>Always striving to build high-performance, user-friendly mobile apps using clean architecture.</p>
 
 ###
 
@@ -50,10 +50,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.shutterstock.com/image-photo/hand-holding-human-brain-futuristic-260nw-2481678871.jpg"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/123abas/123abas/output/snake.svg" alt="Snake animation" />
@@ -68,50 +64,5 @@
 ###
 
 <p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
 ###
